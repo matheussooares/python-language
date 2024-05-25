@@ -4,6 +4,9 @@ Com o avanço da tecnologia, é cada vez maior a quantidade de dados disponívei
 
 Por esse motivo, é criado esse diretório para consultas e revisão dos conhecimentos da linguagem, adiquiridos em uma série de cursos realizados durante a minha tragetória academica e profissional.
 
+Além disso, é porposto a criação de um [Ebook](/docs/ebook/Ebook%20python.pdf) para simplificar o entendimento e estudo da linguagem.
+
+
 
 # Tópicos abordados
 
