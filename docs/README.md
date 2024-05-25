@@ -11,3 +11,10 @@ As referências utilizadas, dentre outra são:
 
 # Tópicos abordados
 
+
+
+# Refências Bibliográficas
+
+- [Ray SO](https://ray.so)
+
+- [Show Code](https://showcode.app/)
