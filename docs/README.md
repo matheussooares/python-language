@@ -14,7 +14,11 @@ Este repositório foi criado com o objetivo de centralizar os conhecimentos adqu
 
 Além disso, disponibilizamos um [Ebook](/docs/ebook/Ebook%20python.pdf) que visa simplificar o entendimento e estudo da linguagem, sendo um recurso útil tanto para iniciantes quanto para programadores experientes.
 
-Além disso, iniciei o projeto de um podcast intitulado "[Dunas de Python: Desbravando o território dos dados](/docs/podcast/podcast%20-%20EP%201.mp3)" que por meio de IA é facilidado o processo de criação do podcast baseado nas minhas referências pessoas favoritas.
+Além disso, iniciei o projeto de um podcast intitulado "[Dunas de Python: Desbravando o território dos dados](/docs/podcast/)" que por meio de IA é facilidado o processo de criação do podcast baseado nas minhas referências pessoas favoritas.
+
+<div align="center">
+    <audio src="docs/podcast/EP-1.mp3.mp3" controls title="Podcast: primeiro episódio"></audio>
+</div>
 
 ## 🤖 Tecnologias Utilizadas
 - ChatGPT: Para suporte e geração de conteúdo.
@@ -37,3 +41,5 @@ Além disso, iniciei o projeto de um podcast intitulado "[Dunas de Python: Desbr
 6. [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 7. [Ray SO](https://ray.so)
 8. [Show Code](https://showcode.app/)
+9. [ElevenLabs](https://beta.elevenlabs.io/)
+10. [Capcut](https://www.capcut.com/pt-br/)
