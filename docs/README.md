@@ -17,14 +17,12 @@ Além disso, disponibilizamos um [Ebook](/docs/ebook/Ebook%20python.pdf) que vis
 Além disso, iniciei o projeto de um podcast intitulado "[Dunas de Python: Desbravando o território dos dados](/docs/podcast/)" que por meio de IA é facilidado o processo de criação do podcast baseado nas minhas referências pessoas favoritas.
 
 <div align="center">
-    <img 
-    src="docs/figs/aprensentadora-podcast.jpg"
-    width=""
-    />
+  <img src="figs/apresentadora-podcast.jpg" alt="Braço robótico didático" width="150" height="150">
+  <br>
 </div>
 
 <div align="center">
-    <audio src="docs/podcast/EP-1.mp3" controls title="Podcast: primeiro episódio" type="audio/mpeg"></audio>
+    <audio src="podcast/EP-1.mp3" controls title="Podcast: primeiro episódio" type="audio/mpeg"></audio>
 </div>
 
 ## 🤖 Tecnologias Utilizadas
