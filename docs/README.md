@@ -22,7 +22,7 @@ Além disso, iniciei o projeto de um podcast intitulado "[Dunas de Python: Desbr
 </div>
 
 <div align="center">
-    <audio src="podcast/EP-1.mp3" controls title="Podcast: primeiro episódio" type="audio/mpeg"></audio>
+    <audio src="podcast/EP-1.mp3" controls title="Podcast: primeiro episódio"></audio>
 </div>
 
 ## 🤖 Tecnologias Utilizadas
