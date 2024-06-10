@@ -14,6 +14,8 @@ Este repositório foi criado com o objetivo de centralizar os conhecimentos adqu
 
 Além disso, disponibilizamos um [Ebook](/docs/ebook/Ebook%20python.pdf) que visa simplificar o entendimento e estudo da linguagem, sendo um recurso útil tanto para iniciantes quanto para programadores experientes.
 
+Além disso, iniciei o projeto de um podcast intitulado "[Dunas de Python: Desbravando o território dos dados](/docs/podcast/podcast%20-%20EP%201.mp3)" que por meio de IA é facilidado o processo de criação do podcast baseado nas minhas referências pessoas favoritas.
+
 ## 🤖 Tecnologias Utilizadas
 - ChatGPT: Para suporte e geração de conteúdo.
 - MidJourney: Para criação de imagens e ilustrações.
