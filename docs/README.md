@@ -26,10 +26,13 @@ Além disso, iniciei o projeto de um podcast intitulado "[Dunas de Python: Desbr
 </div>
 
 ## 🤖 Tecnologias Utilizadas
-- ChatGPT: Para suporte e geração de conteúdo.
-- MidJourney: Para criação de imagens e ilustrações.
-- PowerPoint: Para elaboração de apresentações.
-- Show Code: Para compartilhar e exibir trechos de código de - maneira elegante.
+- [ChatGPT](https://chat.openai.com/): Para suporte e geração de conteúdo.
+- [MidJourney](https://www.midjourney.com/app/): Para criação de imagens e ilustrações.
+- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint): Para elaboração de apresentações.
+- [Show Code](https://showcode.app/): Para compartilhar e exibir trechos de código de - maneira elegante.
+- [Ray SO](https://ray.so)
+-  [ElevenLabs](https://beta.elevenlabs.io/)
+-  [Capcut](https://www.capcut.com/pt-br/)
 
 ## 🚀 Resultados
  - [Ebook](/docs/ebook/Ebook%20python.pdf): Um guia completo para entender a linguagem Python.
@@ -41,10 +44,3 @@ Além disso, iniciei o projeto de um podcast intitulado "[Dunas de Python: Desbr
 1. [Alura](https://cursos.alura.com.br/)
 2. [DIO](https://web.dio.me/)
 3. [leadDELL](https://leadfortaleza.com.br/portal)
-4. [ChatGPT](https://chat.openai.com/) 
-5.  [MidJourney](https://www.midjourney.com/app/)
-6. [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
-7. [Ray SO](https://ray.so)
-8. [Show Code](https://showcode.app/)
-9. [ElevenLabs](https://beta.elevenlabs.io/)
-10. [Capcut](https://www.capcut.com/pt-br/)
