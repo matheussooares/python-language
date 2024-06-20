@@ -13,7 +13,7 @@ Este repositório foi criado com o objetivo de centralizar os conhecimentos adqu
 - Disponibilizo um [Ebook](/docs/ebook/Ebook%20python.pdf) que visa simplificar o entendimento e estudo da linguagem, sendo um recurso útil tanto para iniciantes quanto para programadores experientes.
 -  iniciei o projeto de um podcast intitulado "[Dunas de Python: Desbravando o território dos dados](/docs/podcast/)" que por meio de IA é facilidado o processo de criação do podcast baseado nas minhas referências pessoas favoritas.
   <div align="center">
-    <img src="figs/apresentadora-podcast.jpg" alt="Braço robótico didático" width="150" height="150">
+    <img src="figs/ebook/apresentadora-podcast.jpg" alt="Braço robótico didático" width="150" height="150">
     <br>
   </div>
 
