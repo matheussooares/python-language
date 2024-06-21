@@ -30,11 +30,12 @@ Este repositório foi criado com o objetivo de centralizar os conhecimentos adqu
 -  [ElevenLabs](https://beta.elevenlabs.io/)
 -  [Capcut](https://www.capcut.com/pt-br/)
 
-## 🚀 Resultados
- - [Ebook](/docs/ebook/Ebook%20python.pdf): Um guia completo para entender a linguagem Python.
- - [Built-in funcition](/scripts/python-Built-in.ipynb): Exemplos e explicações sobre as funções nativas do Python.
- - [Estrutura de Dados](/scripts/python-data-structure.ipynb): Uma visão detalhada sobre as estruturas de dados em Python.
- - [Biblioteca Pandas](/scripts/python-lib-pandas.ipynb): Demonstrações e usos da biblioteca Pandas para análise de dados.
+## 🚀 Conteúdos
+ - [Ebook](/docs/ebook/Ebook%20python.pdf): guia completo para entender a linguagem Python.
+ - [Built-in funcition](/scripts/python-Built-in.ipynb): exemplos e explicações sobre as funções nativas do Python.
+ - [Estrutura de Dados](/scripts/python-data-structure.ipynb): visão detalhada sobre as estruturas de dados em Python.
+ - [Biblioteca Pandas](/scripts/python-lib-pandas.ipynb): demonstrações e usos da biblioteca Pandas para análise de dados.
+- [Orientação a Objeto](/scripts/python-object-oriented.ipynb): uso dos conceitos do paradigma de orientação a objeto(OO) dentro da linguagem python.
 
 # 📚 Referências
 1. [Alura](https://cursos.alura.com.br/)
