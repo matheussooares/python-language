@@ -16,9 +16,9 @@ Este repositório foi criado com o objetivo de centralizar os conhecimentos adqu
     <img src="figs/ebook/apresentadora-podcast.jpg" alt="Braço robótico didático" width="150" height="150">
     <br>
   </div>
-<div align="center">
+
     <audio src="podcast/EP-1.mp3" controls title="Podcast: primeiro episódio"></audio>
-</div>
+
 
 ## 🤖 Tecnologias Utilizadas
 - [ChatGPT](https://chat.openai.com/): Para suporte e geração de conteúdo.
