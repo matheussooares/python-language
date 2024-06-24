@@ -17,17 +17,19 @@ Este repositório foi criado com o objetivo de centralizar os conhecimentos adqu
     <br>
   </div>
 
-    <audio src="podcast/EP-1.mp3" controls title="Podcast: primeiro episódio"></audio>
+<audio src="podcast/EP-1.mp3" controls title="Podcast: primeiro episódio">
+</audio>
 
 
 ## 🤖 Tecnologias Utilizadas
-- [ChatGPT](https://chat.openai.com/): Para suporte e geração de conteúdo.
-- [MidJourney](https://www.midjourney.com/app/): Para criação de imagens e ilustrações.
+- [Jupyter Notebook](https://jupyter.org/): projeto Jupyter  para desenvolver software de código aberto.
+- [ChatGPT](https://chat.openai.com/): para suporte e geração de conteúdo.
+- [MidJourney](https://www.midjourney.com/app/): para criação de imagens e ilustrações.
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint): Para elaboração de apresentações.
-- [Show Code](https://showcode.app/): Para compartilhar e exibir trechos de código de - maneira elegante.
-- [Ray SO](https://ray.so)
--  [ElevenLabs](https://beta.elevenlabs.io/)
--  [Capcut](https://www.capcut.com/pt-br/)
+- [Show Code](https://showcode.app/): para compartilhar e exibir trechos de código de - maneira elegante.
+- [Ray SO](https://ray.so): para criar imagens estilizadas de trechos de código, facilitando a sua visualização e compartilhamento.
+- [ElevenLabs](https://beta.elevenlabs.io/): para a íntese de voz baseada em IA que gera vozes realistas para narrações, audiolivros e assistentes virtuais.
+- [Capcut](https://www.capcut.com/pt-br/): editor de vídeo gratuito e multifuncional, ideal para criar vídeos profissionais com diversas ferramentas de edição intuitivas.
 
 ## 🚀 Conteúdos
  - [Ebook](/docs/ebook/Ebook%20python.pdf): guia completo para entender a linguagem Python.
@@ -39,4 +41,4 @@ Este repositório foi criado com o objetivo de centralizar os conhecimentos adqu
 # 📚 Referências
 1. [Alura](https://cursos.alura.com.br/)
 2. [DIO](https://web.dio.me/)
-3. [leadDELL](https://leadfortaleza.com.br/portal)
+3. [LeadDELL](https://leadfortaleza.com.br/portal)
