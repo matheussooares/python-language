@@ -20,6 +20,12 @@ Este repositório foi criado com o objetivo de centralizar os conhecimentos adqu
 <audio src="podcast/EP-1.mp3" controls title="Podcast: primeiro episódio">
 </audio>
 
+## 🚀 Conteúdos
+ - [Ebook](/docs/ebook/Ebook%20python.pdf): guia completo para entender a linguagem Python.
+ - [Built-in funcition](/scripts/python-Built-in.ipynb): exemplos e explicações sobre as funções nativas do Python.
+ - [Estrutura de Dados](/scripts/python-data-structure.ipynb): visão detalhada sobre as estruturas de dados em Python.
+ - [Biblioteca Pandas](/scripts/python-lib-pandas.ipynb): demonstrações e usos da biblioteca Pandas para análise de dados.
+- [Orientação a Objeto](/scripts/python-object-oriented.ipynb): uso dos conceitos do paradigma de orientação a objeto(OO) dentro da linguagem python.
 
 ## 🤖 Tecnologias Utilizadas
 - [Jupyter Notebook](https://jupyter.org/): projeto Jupyter  para desenvolver software de código aberto.
@@ -31,12 +37,7 @@ Este repositório foi criado com o objetivo de centralizar os conhecimentos adqu
 - [ElevenLabs](https://beta.elevenlabs.io/): para a íntese de voz baseada em IA que gera vozes realistas para narrações, audiolivros e assistentes virtuais.
 - [Capcut](https://www.capcut.com/pt-br/): editor de vídeo gratuito e multifuncional, ideal para criar vídeos profissionais com diversas ferramentas de edição intuitivas.
 
-## 🚀 Conteúdos
- - [Ebook](/docs/ebook/Ebook%20python.pdf): guia completo para entender a linguagem Python.
- - [Built-in funcition](/scripts/python-Built-in.ipynb): exemplos e explicações sobre as funções nativas do Python.
- - [Estrutura de Dados](/scripts/python-data-structure.ipynb): visão detalhada sobre as estruturas de dados em Python.
- - [Biblioteca Pandas](/scripts/python-lib-pandas.ipynb): demonstrações e usos da biblioteca Pandas para análise de dados.
-- [Orientação a Objeto](/scripts/python-object-oriented.ipynb): uso dos conceitos do paradigma de orientação a objeto(OO) dentro da linguagem python.
+
 
 # 📚 Referências
 1. [Alura](https://cursos.alura.com.br/)
